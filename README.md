@@ -1,1 +1,1 @@
-Projeto CRUD utilizando FastAPI
+Projeto CRUD utilizando FastAPI - nível básico
